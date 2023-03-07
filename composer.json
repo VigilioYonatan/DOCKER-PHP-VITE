@@ -1,0 +1,16 @@
+{
+    "name": "vigilio/crud",
+    "description": "this is a crud",
+    "authors": [
+        {
+            "name": "Vigilio",
+            "email": "yonatanvigiliolavado09@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
